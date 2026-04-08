@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-Play the game online at: https://iam269.github.io/Breakout-Game/
+Play the game online at: https://itsiamdev.github.io/Breakout-Game/
 
 ## ✨ Features
 
